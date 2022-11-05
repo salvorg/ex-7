@@ -3,7 +3,7 @@ import './App.css';
 import {MenuItem} from "./types";
 import foodImg from './assets/food.png';
 import drinkImg from './assets/drink.png';
-import TotalPrice from "./TotalPrice/TotalPrice";
+import TotalPrice from "./components/TotalPrice/TotalPrice";
 
 const MENU: MenuItem[] = [
   {name: 'Hamburger', price: 100, image: foodImg},
