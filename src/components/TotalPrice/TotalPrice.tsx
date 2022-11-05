@@ -1,5 +1,5 @@
 import React from 'react';
-import {MenuItem} from "../types";
+import {MenuItem} from "../../types";
 
 interface ItemWithPrice {
   name: string;
